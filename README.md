@@ -36,4 +36,47 @@ It connects **customers, vendors, and delivery riders** on a single platform wit
 ---
 
 ## 📂 Project Structure
+Aura/
+│
+├── backend/
+│ ├── src/
+│ │ ├── models/
+│ │ ├── routes/
+│ │ ├── middleware/
+│ │ └── server.js
+│
+├── src/
+│ ├── components/
+│ ├── context/
+│ ├── services/
+│ ├── views/
+│ └── App.tsx
+│
+└── README.md
+
+---
+
+## 🧪 API Highlights
+
+- `POST /auth/login` – Login & get JWT
+- `GET /products` – Fetch products
+- `POST /orders` – Create order
+- `POST /orders/verify` – OTP-based delivery confirmation
+
+---
+
+## 🧑‍💻 Author
+
+**Ayush Sharma**  
+B.Tech (Electronics & Computer Engineering)  
+Full-Stack Developer | UI/UX | MERN  
+
+---
+
+## 📌 Status
+
+✅ Core features complete  
+🚧 Deployment & enhancements coming next
+
+
 
