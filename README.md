@@ -35,27 +35,6 @@ It connects **customers, vendors, and delivery riders** on a single platform wit
 
 ---
 
-## 📂 Project Structure
-Aura/
-│
-├── backend/
-│ ├── src/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ ├── middleware/
-│ │ └── server.js
-│
-├── src/
-│ ├── components/
-│ ├── context/
-│ ├── services/
-│ ├── views/
-│ └── App.tsx
-│
-└── README.md
-
----
-
 ## 🧪 API Highlights
 
 - `POST /auth/login` – Login & get JWT
