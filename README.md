@@ -68,7 +68,7 @@ Aura/
 ## 🧑‍💻 Author
 
 **Ayush Sharma**  
-B.Tech (Electronics & Computer Engineering)  
+B.Tech (Electronics & Communication Engineering)  
 Full-Stack Developer | UI/UX | MERN  
 
 ---
