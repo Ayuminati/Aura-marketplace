@@ -1,0 +1,8 @@
+{
+  "name": "Aura Marketplace",
+  "description": "A sophisticated multi-role e-commerce platform connecting customers, vendors, and riders with AI-powered features and role-based dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
