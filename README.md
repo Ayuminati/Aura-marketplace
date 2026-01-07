@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Aura Marketplace 🛒✨
 
-# Run and deploy your AI Studio app
+Aura is a full-stack multi-role marketplace application built with a modern MERN-style architecture.  
+It connects **customers, vendors, and delivery riders** on a single platform with secure, OTP-based order delivery.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1j4tr090-Jf1rwq8nGF2lX37jiF7shbEb
+## 🚀 Features
 
-## Run Locally
+- 🔐 JWT-based authentication
+- 👥 Multi-role system (Customer / Vendor / Rider)
+- 🛒 Product marketplace
+- 📦 Complete order lifecycle
+  - PAID → ASSIGNED → PICKED_UP → DELIVERED
+- 🔑 OTP-based delivery verification
+- 🧠 AI-ready architecture (Gemini integration)
+- ⚡ Real-time cart & order tracking
+- 🌐 RESTful backend API
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Frontend**
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- Context API
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- JWT Authentication
+
+---
+
+## 📂 Project Structure
+
